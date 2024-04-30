@@ -10,4 +10,4 @@ Template ini dibuat untuk mempermudah praktikan membuat laporan dengan LaTex. Un
 
 Untuk resource apa saja yang diperlukan dalam penggunaan template ini, dapat dilihat pada video youtube berikut :
 
-[link](https://youtu.be/4lyHIQl4VM8?si=NKjpA3bkTzCn0Ruo)
+[Instalasi kebutuhan penggunaan template LaTex](https://youtu.be/4lyHIQl4VM8?si=NKjpA3bkTzCn0Ruo)
