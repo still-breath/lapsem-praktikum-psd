@@ -1,4 +1,4 @@
-# Template Laporan Praktikum Jaringan Komputer
+# Template Laporan Sementara Praktikum Pengolahan Sinyal Digital
 
 <img src="https://www.its.ac.id/komputer/wp-content/uploads/sites/28/2018/03/image10.png" alt="Teknik Komputer ITS" width="150" height="150">
 
